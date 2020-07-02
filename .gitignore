@@ -144,3 +144,6 @@ cython_debug/
 trained_model/*
 data/database/*
 data/artifacts/*
+
+.python-version
+
