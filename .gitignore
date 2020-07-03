@@ -146,4 +146,4 @@ data/database/*
 data/artifacts/*
 
 .python-version
-
+.vscode
